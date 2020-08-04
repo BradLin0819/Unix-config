@@ -1,1 +1,1 @@
-# Unix-config
+# Some dotfiles
